@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"name": "vscode",
+			"path": "../../Documents/vscode"
+		},
+		{
+			"name": "ip-address",
+			"path": "."
+		},
+		{
+			"name": "price-grid",
+			"path": "../price-grid"
+		},
+		{
+			"name": "social-media",
+			"path": "../social-media"
+		}
+	],
+	"settings": {
+		"solidity.compileUsingRemoteVersion": "v0.4.19+commit.c4cbbb05",
+		"liveServer.settings.multiRootWorkspaceName": "ip-address"
+	}
+}
